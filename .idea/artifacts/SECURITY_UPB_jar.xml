@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SECURITY-UPB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SECURITY_UPB_jar</output-path>
+    <root id="archive" name="SECURITY-UPB.jar">
+      <element id="module-output" name="SECURITY-UPB" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/h2database/h2/1.4.200/h2-1.4.200.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
